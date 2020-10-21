@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+    <string name="txt_titulo">CALCULADORA</string>
+    <string name="txt_num1">Introduce el primer número:</string>
+    <string name="txt_input1">0</string>
+    <string name="txt_num2">Introduce el segundo número:</string>
+    <string name="txt_btn_sumar">+</string>
+    <string name="txt_btn_restar">-</string>
+    <string name="txt_btn_multiplicar">x</string>
+    <string name="txt_btn_dividir">/</string>
+    <string name="txt_resultado">Resultado:</string>
+    <string name="txt_num_2">0</string>
+</resources>
